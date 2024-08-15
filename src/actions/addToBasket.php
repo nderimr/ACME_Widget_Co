@@ -8,6 +8,7 @@
 
     use classes\Basket as Basket;
 
+    
     session_start();
     if( !isset( $_SESSION['basket'] ) ) {
         $basket = new Basket;
