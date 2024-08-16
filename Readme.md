@@ -15,7 +15,9 @@ Using terminal enter the project directory and
 Run commands:
 
 >composer install
->composer dump-autoload 
+
+>composer update 
+
 
 on your browser open the link   server_name/ACME_Widget_Co/public/
 
