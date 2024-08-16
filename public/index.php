@@ -126,9 +126,5 @@ use classes\BlueWidget as BlueWidget;
         });
     
     });
-
-
-
-
 </script>
 </html>
