@@ -19,7 +19,7 @@ Run commands:
 >composer update 
 
 
-on your browser open the link   server_name/ACME_Widget_Co/public/
+on your browser open the link   server_name/Project_Folder_Name/public/
 
 to run test on your machine, Using terminal enter the project directory and run test using command >
 
