@@ -23,8 +23,7 @@ class Basket
         $this->widgetCodes[] = $widgetCode;
     }
    
-    
-    public function total(): float
+        public function total(): float
     {
         $totalProductsPrice = $this->calculateTotalProductsPrice();
         $totalProductsPrice -= $this->calculateDiscount();
